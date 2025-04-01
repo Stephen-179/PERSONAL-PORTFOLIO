@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Welcome home </title>
+    <body>
+        <header> WELCOME HOME</header>
+        <H1> Please complete your details</H1>
+        <input type="email"Placeholder="Your email address"required>
+        <input type="text"Placeholder="Create a username"required>
+        <input type="password"Placeholder="Enter your password"required>
+        <div class="Name-fields">
+            <input type="text"placeholder="First name"required>
+            <input type="text"placeholder="Last name"required>
+        </div>
+        <label for="">
+            <input type="checkbox"> Keep me logged in when using this computer
+        </label>
+        <label for="">
+            <input type="checkbox"> Receive weekly newsletter
+        </label>
+        <label for="">
+            <input type="checkbox"> Receive daily newsletter
+        </label>
+        <button type="submit"> Submit </button>
+    </body>
+</head>
+</html>
