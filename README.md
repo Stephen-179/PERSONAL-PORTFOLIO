@@ -44,7 +44,7 @@ To run this project locally:
 
 ## 📸 Preview
 
-![Portfolio Screenshot](media/IMG_1261.JPG)
+
 
 ## 📬 Contact
 
