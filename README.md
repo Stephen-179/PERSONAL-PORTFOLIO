@@ -43,7 +43,7 @@ To run this project locally:
 3. **Open `index.html` in your browser.**
 
 ## 📸 Preview
-media/Capture.PNG
+(media/Capture.PNG)
 
 
 ## 📬 Contact
